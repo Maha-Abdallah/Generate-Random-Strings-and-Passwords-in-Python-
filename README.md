@@ -1,0 +1,2 @@
+# Generate-Random-Strings-and-Passwords-in-Python-
+Generate random strings &amp; passwords. User-friendly, efficient Python tool.  Problem: Create random strings &amp; passwords in Python.  Algorithm: Advanced techniques for randomness &amp; security.  Pseudocode: High-level logic outline.  Flowcharts: Visualize algorithm steps. Coding: Python implementation.  Test Cases: Verify correctness. what i learned. 
