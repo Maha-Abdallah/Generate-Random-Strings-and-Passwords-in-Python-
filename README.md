@@ -1,7 +1,6 @@
 # Generate-Random-Strings-and-Passwords-in-Python-
 **GitHub Master Project Description: Generate Random Strings and Passwords in Python**
 
-![GitHub Project Banner](project_banner.png) (You can insert an image banner for the project)
 
 **Introduction:**
 This GitHub master project aims to provide a comprehensive solution for generating random strings and passwords in Python. It addresses the need for a flexible and efficient tool that can create secure and customizable strings and passwords for various applications.
